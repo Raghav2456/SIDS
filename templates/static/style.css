@@ -1,0 +1,5 @@
+body { background: #111; color: #0f0; font-family: Arial; padding: 20px; }
+h1 { color: #0ff; }
+.alert { padding: 5px; border-bottom: 1px solid #0f0; }
+.SIDS { color: #f39c12; }
+.HIDS { color: #e74c3c; }
